@@ -6,6 +6,8 @@
 #include "stm32l1xx_ll_rcc.h"
 #include "stm32l1xx_ll_utils.h"
 
+void SystemClock_Config(void);
+
 int main()
 {
     while(1);
