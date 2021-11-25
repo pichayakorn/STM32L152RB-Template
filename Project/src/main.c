@@ -1,4 +1,6 @@
+/* Base registers address header file */
 #include "stm32l1xx.h"
+/* Library related header files */
 #include "stm32l1xx_ll_system.h"
 #include "stm32l1xx_ll_bus.h"
 #include "stm32l1xx_ll_gpio.h"
